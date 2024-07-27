@@ -1,0 +1,7 @@
+{
+    "watch": ["index.js"], 
+    "ext": "js,json",
+    "delay":"5000",
+    "exec": "node index.js"
+  }
+  
